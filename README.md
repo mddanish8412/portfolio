@@ -72,7 +72,7 @@ Open index.html in your browser to view the website.
 
 Add screenshots of your portfolio (desktop view, mobile view, dark mode).
 
-🌐 Live Demo
+🌐 Live Demo  https://portfolio-n2w4.vercel.app/
 
 Click here to view the live site
 
